@@ -6,6 +6,7 @@ try:
 
 except ValueError:
 
-dsdsd
-
+	print("fuck")
+	hggj
+	
 
